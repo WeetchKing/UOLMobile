@@ -1,0 +1,5 @@
+DefaultLanguage pt-BR
+AddDefaultCharset UTF-8
+SetEnv BR America/Sao_Paulo
+RemoveHandler cgi-script .pl .py .cgi
+AddType text/plain .pl .py .cgi
